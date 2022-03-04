@@ -16,7 +16,7 @@ Based on the Theatre_outcomes_launch date table, May is the best month to launch
 Difficulties were relatively simple. To begin with, forget to add quotes, commas, exclamation marks in the formulas and spend more time try figuring what went wrong. I struggled to edit the data in the pivot chart in the axis region; format the axis is the key for solution. Applying the countifs formula was another challenge; with a few trials and errors figured out how to select range and column.
 
 # Results
-theatre_outcomes_launch date
+theatre_outcomes_launch date:
 if she launches her campaign in  May, the success rate will be high.
-outcomes_goals
+outcomes_goals:
 The goal amount should be in the reachable range by looking at the percentage of failure campaigns.
